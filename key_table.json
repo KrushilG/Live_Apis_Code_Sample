@@ -1,0 +1,23 @@
+[
+    {
+        "sr_no": 1,
+        "key": "ABC",
+        "usage": 0,
+        "limit": 7,
+        "status": true
+    },
+    {
+        "sr_no": 2,
+        "key": "123",
+        "usage": 0,
+        "limit": 12,
+        "status": true
+    },
+    {
+        "sr_no": 3,
+        "key": "DEF",
+        "usage": 0,
+        "limit": 15,
+        "status": true
+    }
+]
